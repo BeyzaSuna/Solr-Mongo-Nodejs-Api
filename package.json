@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-mongoose-many-to-many",
+  "version": "1.0.0",
+  "description": "NodeJs-RestApis-MongoDB-Solr",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-RestAPIs-MongoDB"
+  ],
+  "author": "JSA",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "log4js": "^4.5.1",
+    "mongoose": "^5.3.9",
+    "node-solr-request": "^0.1.4",
+    "npm": "^5.8.0",
+    "qs": "^6.7.0",
+    "solr-node": "^1.2.1"
+  }
+}
