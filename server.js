@@ -24,7 +24,7 @@ const mongoose = require('mongoose');
   
 require("./app/routes/customer.js")(app);
 require("./app/routes/product.js")(app);
-
+require("./app/routes/search.js")(app);
 
 // Create a Server and Listen Port
 var server = app.listen(8081, function () {
