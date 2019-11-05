@@ -18,7 +18,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.4",
     "log4js": "^4.5.1",
-    "mongoose": "^5.3.9",
+    "mongoose": "^5.7.5",
     "node-solr-request": "^0.1.4",
     "npm": "^5.8.0",
     "qs": "^6.7.0",
