@@ -16,7 +16,7 @@
     "assert": "^1.4.1",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "log4js": "^4.5.1",
     "mongoose": "^5.3.9",
     "node-solr-request": "^0.1.4",
